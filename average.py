@@ -6,6 +6,7 @@
 
 # print("The average is: "+str(average))
 
+#---------------------------------------------#
 # x = 0
 # while True:
 #     a = []
@@ -20,3 +21,8 @@
 #         print(True)
 #     else:
 #         print(False)
+
+#----------------------------------------------#
+# a,b,c = map(int,input().split())
+# result = {a:"Alice",b:"Bob",c:"Charlie"}
+# print(result[max(a,b,c)])
